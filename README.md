@@ -1,8 +1,8 @@
 👋 Hi, I'm Diwakar S
 
 📧 diwisrini1528@gmail.com
- | 📞 6383908855
-🔗 LinkedIn Profile
+
+🔗 LinkedIn
 
 👨‍💻 About Me
 
