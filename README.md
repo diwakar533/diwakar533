@@ -1,9 +1,3 @@
-Here is your **final GitHub README**, with the LinkedIn link properly embedded as a clickable badge and no phone number.
-
-You can paste this directly into your `README.md`.
-
----
-
 # 👋 Hi, I'm **Diwakar S**
 
 📧 [diwisrini1528@gmail.com](mailto:diwisrini1528@gmail.com)
