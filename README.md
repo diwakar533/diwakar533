@@ -45,8 +45,6 @@ A reflective, user-centered web application that helps users understand their cu
 ---
 
 ### 🔹 Student Result Management System  
-🔗 https://github.com/diwakar533/student-result-management-system  
-
 Developed a system to manage and display student academic results efficiently.
 
 - Structured program logic
