@@ -22,24 +22,25 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack developer with strong UI/UX and frontend focus**, interested in building **clean, user-friendly applications backed by solid logic**.
+I am a **Full-Stack developer with a strong UI/UX and frontend focus**, passionate about building **clean, user-friendly applications backed by solid logic**.
 
-I enjoy working on real-world problems, designing thoughtful interfaces, and continuously improving my technical and design skills. I am a fast learner and actively building projects to grow as a professional software developer.
+I enjoy working on real-world problems, designing thoughtful interfaces, and continuously improving my development and design skills. I am a fast learner and actively building projects to grow as a professional software developer.
 
 ---
 
 ## 💻 Projects
 
-### 🔹 Human State Interpreter
-A reflective, user-centered web experience designed to help users understand their current emotional and mental state through a calm, guided interaction.
+### 🔹 Human State Interpreter (Frontend Project)
+A reflective, user-centered web application that helps users understand their current emotional and mental state through a calm, guided interaction.
 
-- Focused on empathy-driven and non-judgmental UI  
-- Simple and human-friendly flow  
-- Awareness-focused design (not diagnosis)  
-- Clean layout and content hierarchy  
+- Built using **HTML, CSS, and JavaScript** in **VS Code**
+- Empathy-driven and non-judgmental UI
+- Simple, human-friendly interaction flow
+- Awareness-focused design (not diagnosis)
+- Clean layout and clear content hierarchy
 
-**Role:** UI/UX Design, Concept & Flow Design  
-**Tools:** Figma
+**Tech:** HTML • CSS • JavaScript  
+**Tools:** VS Code
 
 ---
 
@@ -48,20 +49,20 @@ A reflective, user-centered web experience designed to help users understand the
 
 Developed a system to manage and display student academic results efficiently.
 
-- Structured program logic  
-- Student data and result handling  
-- Clear output and usability focus  
+- Structured program logic
+- Student data and result handling
+- Clear output and usability focus
 
 **Tech:** Python • Git • GitHub
 
 ---
 
 ### 🔹 Movie Ticket Booking System (UI/UX + Frontend)
-Designed and developed a movie ticket booking interface with emphasis on:
+Designed and developed a movie ticket booking interface focusing on:
 
-- Seat selection flow  
-- Clean layout and responsiveness  
-- User-friendly navigation  
+- Seat selection flow
+- Clean layout and responsiveness
+- User-friendly navigation
 
 **Tech:** HTML • CSS • JavaScript  
 **Design:** Figma
@@ -71,10 +72,10 @@ Designed and developed a movie ticket booking interface with emphasis on:
 ### 🔹 Restaurant Booking Website – *Royal Taste* (UI/UX Prototype)
 Designed a restaurant booking interface applying:
 
-- Layout balance  
-- Color psychology  
-- Typography  
-- Usability standards  
+- Layout balance
+- Color psychology
+- Typography
+- Usability standards
 
 **Tools:** Figma • Adobe XD
 
@@ -83,20 +84,20 @@ Designed a restaurant booking interface applying:
 ## 🛠 Technical Skills
 
 **Languages**  
-HTML • CSS • JavaScript • Python  
+HTML • CSS • JavaScript • Python
 
 **UI/UX & Design**  
-Figma • Adobe XD • Wireframing • Prototyping  
+Figma • Adobe XD • Wireframing • Prototyping
 
 **Tools & Platforms**  
-Git • GitHub • APIs • VS Code  
+Git • GitHub • APIs • VS Code
 
 ---
 
 ## 📚 Currently Learning
-- Data Structures & Algorithms  
-- Backend Development (Python)  
-- System Design Fundamentals  
+- Data Structures & Algorithms
+- Backend Development (Python)
+- System Design Fundamentals
 
 ---
 
@@ -106,4 +107,4 @@ Aspiring **Software / Full-Stack Developer** seeking opportunities to build **cl
 
 ---
 
-⭐ *Thanks for visiting my profile. Feel free to connect with me on LinkedIn or explore my repositories.*
+⭐ Thanks for visiting my profile. Feel free to connect with me on LinkedIn or explore my repositories.
