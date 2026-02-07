@@ -20,15 +20,46 @@
 
 ---
 
-## 🚀 Featured Projects
+## 👋 Who I Am
+
+I’m a **Full-Stack Developer with a strong focus on Frontend and UI/UX**, passionate about building applications that are not only functional but also **simple, clean, and meaningful for users**.
+
+I believe good software starts with understanding people. That’s why I enjoy blending **logic, design thinking, and real-world usability** in everything I build.
+
+---
+
+## 💡 What I’m Capable Of
+
+- Translating **ideas into clean, responsive user interfaces**
+- Designing **user-centered flows** before jumping into code
+- Writing **structured, readable, and maintainable logic**
+- Building frontend systems backed by solid problem-solving
+- Rapid learning and adapting to new tools and technologies
+
+I focus on clarity, consistency, and user experience rather than just making things “work”.
+
+---
+
+## 🧠 Currently Growing In
+
+- Data Structures & Algorithms
+- Backend Development using Python
+- System Design fundamentals
+- Improving design systems and UI consistency
+
+I actively build projects to apply what I learn and refine my skills.
+
+---
+
+## 🚀 Projects
 
 ### 🔹 Human State Interpreter (Frontend Project)
-A reflective, user-centered web application that helps users understand their emotional and mental state through a calm, guided interaction.
+A reflective, user-centered web application designed to help users understand their emotional and mental state through a calm, guided interaction.
 
 - Empathy-driven and non-judgmental UI
 - Simple, human-friendly interaction flow
 - Awareness-focused design (not diagnosis)
-- Clean layout and clear content hierarchy
+- Clean layout and content hierarchy
 
 **Tech:** HTML • CSS • JavaScript  
 **Tools:** VS Code
@@ -36,11 +67,11 @@ A reflective, user-centered web application that helps users understand their em
 ---
 
 ### 🔹 Movie Ticket Booking System (UI/UX + Frontend)
-Designed and developed a movie ticket booking interface with a strong focus on usability.
+Designed and developed a movie ticket booking interface focusing on usability and clarity.
 
 - Interactive seat selection flow
-- Clean and responsive layout
-- Smooth navigation and clarity
+- Clean, responsive layout
+- Easy navigation
 
 **Tech:** HTML • CSS • JavaScript  
 **Design:** Figma
@@ -48,7 +79,7 @@ Designed and developed a movie ticket booking interface with a strong focus on u
 ---
 
 ### 🔹 Restaurant Booking Website – *Royal Taste* (UI/UX Prototype)
-A restaurant booking UI prototype designed with strong visual hierarchy and usability principles.
+A UI/UX prototype designed with strong usability and visual hierarchy.
 
 - Layout balance and spacing
 - Color psychology and typography
@@ -63,17 +94,9 @@ A system developed to manage and display student academic results efficiently.
 
 - Structured program logic
 - Student data handling
-- Clear and readable output
+- Clear output
 
 **Tech:** Python • Git • GitHub
-
----
-
-## 👨‍💻 About Me
-
-I am a **Full-Stack developer with a strong UI/UX and frontend focus**, passionate about building **clean, user-friendly applications backed by solid logic**.
-
-I enjoy solving real-world problems, designing thoughtful interfaces, and continuously improving my development and design skills. I’m a fast learner and actively building projects to grow as a professional software developer.
 
 ---
 
@@ -90,17 +113,10 @@ Git • GitHub • APIs • VS Code
 
 ---
 
-## 📚 Currently Learning
-- Data Structures & Algorithms  
-- Backend Development (Python)  
-- System Design Fundamentals  
-
----
-
 ## 🎯 Career Objective
 
-Aspiring **Software / Full-Stack Developer** seeking opportunities to build **clean, scalable, and user-centered applications**, while continuously learning and growing in a professional environment.
+Aspiring **Software / Full-Stack Developer** aiming to build **clean, scalable, and user-centered applications**, while continuously learning and growing in a professional development environment.
 
 ---
 
-⭐ Thanks for visiting my profile. Feel free to connect with me on LinkedIn or explore my repositories.
+⭐ Thanks for visiting my profile. Feel free to connect with me or explore my repositories.
