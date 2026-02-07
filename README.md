@@ -20,20 +20,11 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **Full-Stack developer with a strong UI/UX and frontend focus**, passionate about building **clean, user-friendly applications backed by solid logic**.
-
-I enjoy working on real-world problems, designing thoughtful interfaces, and continuously improving my development and design skills. I am a fast learner and actively building projects to grow as a professional software developer.
-
----
-
-## 💻 Projects
+## 🚀 Featured Projects
 
 ### 🔹 Human State Interpreter (Frontend Project)
-A reflective, user-centered web application that helps users understand their current emotional and mental state through a calm, guided interaction.
+A reflective, user-centered web application that helps users understand their emotional and mental state through a calm, guided interaction.
 
-- Built using **HTML, CSS, and JavaScript** in **VS Code**
 - Empathy-driven and non-judgmental UI
 - Simple, human-friendly interaction flow
 - Awareness-focused design (not diagnosis)
@@ -44,23 +35,12 @@ A reflective, user-centered web application that helps users understand their cu
 
 ---
 
-### 🔹 Student Result Management System  
-Developed a system to manage and display student academic results efficiently.
-
-- Structured program logic
-- Student data and result handling
-- Clear output and usability focus
-
-**Tech:** Python • Git • GitHub
-
----
-
 ### 🔹 Movie Ticket Booking System (UI/UX + Frontend)
-Designed and developed a movie ticket booking interface focusing on:
+Designed and developed a movie ticket booking interface with a strong focus on usability.
 
-- Seat selection flow
-- Clean layout and responsiveness
-- User-friendly navigation
+- Interactive seat selection flow
+- Clean and responsive layout
+- Smooth navigation and clarity
 
 **Tech:** HTML • CSS • JavaScript  
 **Design:** Figma
@@ -68,14 +48,32 @@ Designed and developed a movie ticket booking interface focusing on:
 ---
 
 ### 🔹 Restaurant Booking Website – *Royal Taste* (UI/UX Prototype)
-Designed a restaurant booking interface applying:
+A restaurant booking UI prototype designed with strong visual hierarchy and usability principles.
 
-- Layout balance
-- Color psychology
-- Typography
-- Usability standards
+- Layout balance and spacing
+- Color psychology and typography
+- User-friendly booking flow
 
 **Tools:** Figma • Adobe XD
+
+---
+
+### 🔹 Student Result Management System
+A system developed to manage and display student academic results efficiently.
+
+- Structured program logic
+- Student data handling
+- Clear and readable output
+
+**Tech:** Python • Git • GitHub
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Full-Stack developer with a strong UI/UX and frontend focus**, passionate about building **clean, user-friendly applications backed by solid logic**.
+
+I enjoy solving real-world problems, designing thoughtful interfaces, and continuously improving my development and design skills. I’m a fast learner and actively building projects to grow as a professional software developer.
 
 ---
 
@@ -93,15 +91,15 @@ Git • GitHub • APIs • VS Code
 ---
 
 ## 📚 Currently Learning
-- Data Structures & Algorithms
-- Backend Development (Python)
-- System Design Fundamentals
+- Data Structures & Algorithms  
+- Backend Development (Python)  
+- System Design Fundamentals  
 
 ---
 
 ## 🎯 Career Objective
 
-Aspiring **Software / Full-Stack Developer** seeking opportunities to build **clean, scalable, and user-centered applications**, while continuously learning and growing in a professional development environment.
+Aspiring **Software / Full-Stack Developer** seeking opportunities to build **clean, scalable, and user-centered applications**, while continuously learning and growing in a professional environment.
 
 ---
 
