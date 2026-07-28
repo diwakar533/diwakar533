@@ -1,102 +1,108 @@
-
-# Hi there 👋, I'm Diwakar Sathish
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;Software+Engineer;Final+Year+IT+Student;Always+Learning+%F0%9F%9A%80" />
-</p>
+# Hi 👋 I'm Diwakar Sathish
 
 <p align="center">
-  <a href="https://github.com/diwakar533"><img src="https://img.shields.io/github/followers/diwakar533?style=for-the-badge&logo=github"/></a>
-  <img src="https://img.shields.io/badge/CGPA-8.14-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-success?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Final+Year+Information+Technology+Student;Aspiring+Software+Engineer;Building+User-Centric+Web+Applications;Always+Learning+%F0%9F%9A%80">
 </p>
+
+<h3 align="center">
+Final Year Information Technology Student | Aspiring Software Engineer | Building User-Centric Web Applications
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Information Technology Student  
-🏫 St. Joseph's Institute of Technology, Chennai  
-📊 CGPA: **8.14**  
-💼 Aspiring **Software Engineer | Full Stack Developer | Frontend Developer**
+I'm a Final Year B.Tech Information Technology student passionate about Software Engineering, Web Development and building practical applications with clean, maintainable code.
 
-I enjoy building clean, scalable and user-friendly web applications while continuously improving my problem-solving and software engineering skills.
+- 🎓 B.Tech Information Technology
+- 📍 St. Joseph's Institute of Technology
+- 📊 CGPA: 8.14
+- 💡 Interested in Software Engineering, Backend Development & Cloud
+- 🌱 Currently learning Java, DSA, Spring Boot & System Design
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-### Frontend & Backend
-![HTML](https://skillicons.dev/icons?i=html,css,angular,flask)
-
-### Database & Tools
-![Tools](https://skillicons.dev/icons?i=mysql,git,github,vscode,figma)
+Java • Python • JavaScript • HTML • CSS • Angular • Flask • Node.js • Express.js • MySQL • MongoDB • Git • GitHub • VS Code • Figma
 
 ---
 
 ## 💼 Experience
 
-### UI/UX Intern — Brainwave Matrix Solutions
-- Designed booking platform interfaces
-- Improved navigation and user experience
+### UI/UX Design Intern
+**Brainwave Matrix Solutions**
 
-### Social Media Intern — Talkize
-- Managed digital content
-- Improved engagement through structured content planning
+- UI Design
+- Wireframing
+- UX Research
+
+### Social Media Intern
+**Talkzie**
+
+- Content Strategy
+- Branding
+- Social Media Management
+
+### College Media Team
+
+- Photography
+- Videography
+- Post Production
+- Poster Design
+- Live Telecast
+- Creative Content
+
+---
+
+## 🎤 Leadership
+
+- Organizer — ICECONF 2025
+- Organizer — CSIR National Workshop on Quantum Photonics (2026)
+- Organizer & Post Production Editor — ICSES 2026
+- Organizer — INCÓGNITO National Level Student Symposium (2025)
+- GSSoC 2026 Contributor / Mentee
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏫 Smart Campus Operations *(Ongoing)*
-Campus complaint & service management system.
-
-### 🧠 Human State Interpreter
-A web application for guided emotional self-reflection.
-
-### 🎬 Movie Ticket Booking System
-Responsive movie booking interface.
-
-### 🍽️ Restaurant Management System
-Order processing, billing and menu handling.
-
-### 🏦 Bank Management System
-OOP-based banking application.
-
-### 📊 Student Result Management System
-Python-based result management system.
+- Smart Campus Operations
+- Human State Interpreter
+- Student Result Management System
+- Restaurant Management System
+- Bank Management System
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 
 - MongoDB Certified Associate Developer
 - Oracle Cloud Infrastructure Foundations Associate
-- Google Cloud – Introduction to Generative AI
-- NPTEL – Python for Data Science (Elite)
-- NPTEL – Fundamentals of Algorithms
-- Cisco – Operating Systems
-
----
-
-## 🏆 Achievements
-
-- Organizer – ICECONF 2025
-- Organizer – CSIR Sponsored National Workshop on Quantum Photonics (2026)
-- Organizer & Post-Production Editor – ICSES 2026
-- College Media Team – Content Creation, Photography & Video Editing
+- Oracle AI Foundations Associate
+- Google Cloud Generative AI
+- NPTEL Python for Data Science (Elite)
+- NPTEL Fundamentals of Algorithms
+- Java Programming
+- Angular
+- CSS Essentials
+- Bootstrap
+- UI/UX Design Fundamentals
 
 ---
 
 ## 💻 Coding Profiles
 
-- 🔶 LeetCode: https://leetcode.com/u/Diwikzz_/
-- 🍛 CodeChef: https://www.codechef.com/users/diwikzz061
+- LeetCode — 165+ Problems
+- CodeChef — 2★ Programmer
+
+---
+
+## 📊 GitHub Stats
+
+```md
+Add GitHub Readme Stats, Top Languages and Streak cards here.
+```
 
 ---
 
@@ -106,30 +112,11 @@ Python-based result management system.
 - LinkedIn: https://www.linkedin.com/in/diwakar-sathish-7162082aa
 - Portfolio: https://diwakar-s.lovable.app
 - Email: diwisrini1528@gmail.com
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diwakar533&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar533&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar533&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=diwakar533&theme=tokyonight&row=1&column=6"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakar533&theme=tokyo-night"/>
-</p>
+- LeetCode: https://leetcode.com/u/Diwikzz_/
+- CodeChef: https://www.codechef.com/users/diwikzz061
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+Learning consistently • Building purposefully • Growing every day 🚀
 </p>
