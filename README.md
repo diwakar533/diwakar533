@@ -1,122 +1,135 @@
-<h1 align="center">Hi 👋, I'm Diwakar S</h1>
-<h3 align="center">Full-Stack Developer & UI/UX-Focused Frontend Engineer</h3>
+
+# Hi there 👋, I'm Diwakar Sathish
 
 <p align="center">
-  🎓 3rd Year — St. Joseph’s Institute of Technology <br/>
-  💡 Clean UI • Strong Logic • User-Centered Design
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;Software+Engineer;Final+Year+IT+Student;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="mailto:diwisrini1528@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/diwakar-s">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/diwakar533">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/diwakar533"><img src="https://img.shields.io/github/followers/diwakar533?style=for-the-badge&logo=github"/></a>
+  <img src="https://img.shields.io/badge/CGPA-8.14-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-success?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👋 Who I Am
+## 👨‍💻 About Me
 
-I’m a **Full-Stack Developer with a strong focus on Frontend and UI/UX**, passionate about building applications that are not only functional but also **simple, clean, and meaningful for users**.
+🎓 Final Year B.Tech Information Technology Student  
+🏫 St. Joseph's Institute of Technology, Chennai  
+📊 CGPA: **8.14**  
+💼 Aspiring **Software Engineer | Full Stack Developer | Frontend Developer**
 
-I believe good software starts with understanding people. That’s why I enjoy blending **logic, design thinking, and real-world usability** in everything I build.
-
----
-
-## 💡 What I’m Capable Of
-
-- Translating **ideas into clean, responsive user interfaces**
-- Designing **user-centered flows** before jumping into code
-- Writing **structured, readable, and maintainable logic**
-- Building frontend systems backed by solid problem-solving
-- Rapid learning and adapting to new tools and technologies
-
-I focus on clarity, consistency, and user experience rather than just making things “work”.
+I enjoy building clean, scalable and user-friendly web applications while continuously improving my problem-solving and software engineering skills.
 
 ---
 
-## 🧠 Currently Growing In
+## 🚀 Tech Stack
 
-- Data Structures & Algorithms
-- Backend Development using Python
-- System Design fundamentals
-- Improving design systems and UI consistency
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-I actively build projects to apply what I learn and refine my skills.
+### Frontend & Backend
+![HTML](https://skillicons.dev/icons?i=html,css,angular,flask)
 
----
-
-## 🚀 Projects
-
-### 🔹 Human State Interpreter (Frontend Project)
-A reflective, user-centered web application designed to help users understand their emotional and mental state through a calm, guided interaction.
-
-- Empathy-driven and non-judgmental UI
-- Simple, human-friendly interaction flow
-- Awareness-focused design (not diagnosis)
-- Clean layout and content hierarchy
-
-**Tech:** HTML • CSS • JavaScript  
-**Tools:** VS Code
+### Database & Tools
+![Tools](https://skillicons.dev/icons?i=mysql,git,github,vscode,figma)
 
 ---
 
-### 🔹 Movie Ticket Booking System (UI/UX + Frontend)
-Designed and developed a movie ticket booking interface focusing on usability and clarity.
+## 💼 Experience
 
-- Interactive seat selection flow
-- Clean, responsive layout
-- Easy navigation
+### UI/UX Intern — Brainwave Matrix Solutions
+- Designed booking platform interfaces
+- Improved navigation and user experience
 
-**Tech:** HTML • CSS • JavaScript  
-**Design:** Figma
-
----
-
-### 🔹 Restaurant Booking Website – *Royal Taste* (UI/UX Prototype)
-A UI/UX prototype designed with strong usability and visual hierarchy.
-
-- Layout balance and spacing
-- Color psychology and typography
-- User-friendly booking flow
-
-**Tools:** Figma • Adobe XD
+### Social Media Intern — Talkize
+- Managed digital content
+- Improved engagement through structured content planning
 
 ---
 
-### 🔹 Student Result Management System
-A system developed to manage and display student academic results efficiently.
+## 🚀 Featured Projects
 
-- Structured program logic
-- Student data handling
-- Clear output
+### 🏫 Smart Campus Operations *(Ongoing)*
+Campus complaint & service management system.
 
-**Tech:** Python • Git • GitHub
+### 🧠 Human State Interpreter
+A web application for guided emotional self-reflection.
 
----
+### 🎬 Movie Ticket Booking System
+Responsive movie booking interface.
 
-## 🛠 Technical Skills
+### 🍽️ Restaurant Management System
+Order processing, billing and menu handling.
 
-**Languages**  
-HTML • CSS • JavaScript • Python
+### 🏦 Bank Management System
+OOP-based banking application.
 
-**UI/UX & Design**  
-Figma • Adobe XD • Wireframing • Prototyping
-
-**Tools & Platforms**  
-Git • GitHub • APIs • VS Code
+### 📊 Student Result Management System
+Python-based result management system.
 
 ---
 
-## 🎯 Career Objective
+## 📜 Certifications
 
-Aspiring **Software / Full-Stack Developer** aiming to build **clean, scalable, and user-centered applications**, while continuously learning and growing in a professional development environment.
+- MongoDB Certified Associate Developer
+- Oracle Cloud Infrastructure Foundations Associate
+- Google Cloud – Introduction to Generative AI
+- NPTEL – Python for Data Science (Elite)
+- NPTEL – Fundamentals of Algorithms
+- Cisco – Operating Systems
 
 ---
 
-⭐ Thanks for visiting my profile. Feel free to connect with me or explore my repositories.
+## 🏆 Achievements
+
+- Organizer – ICECONF 2025
+- Organizer – CSIR Sponsored National Workshop on Quantum Photonics (2026)
+- Organizer & Post-Production Editor – ICSES 2026
+- College Media Team – Content Creation, Photography & Video Editing
+
+---
+
+## 💻 Coding Profiles
+
+- 🔶 LeetCode: https://leetcode.com/u/Diwikzz_/
+- 🍛 CodeChef: https://www.codechef.com/users/diwikzz061
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/diwakar533
+- LinkedIn: https://www.linkedin.com/in/diwakar-sathish-7162082aa
+- Portfolio: https://diwakar-s.lovable.app
+- Email: diwisrini1528@gmail.com
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diwakar533&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar533&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar533&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=diwakar533&theme=tokyonight&row=1&column=6"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakar533&theme=tokyo-night"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+</p>
